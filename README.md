@@ -15,21 +15,7 @@ An AI-powered web scraper leveraging **Ollama, Bright Data, Selenium**, and othe
 - **Bright Data** – Proxy management for seamless data extraction
 - **BeautifulSoup & Scrapy** – HTML parsing and data structuring
 - **Pandas & NumPy** – Data processing and analysis
-
-## 📌 Installation
-
-```sh
-# Clone the repository
-git clone https://github.com/yourusername/AI-Web-Scraper.git
-cd AI-Web-Scraper
-
-# Create a virtual environment (optional but recommended)
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
-# Install dependencies
-pip install -r requirements.txt
-```
+  
 
 ## 🔧 Usage
 
@@ -65,7 +51,7 @@ This project is licensed under the **MIT License**.
 Pull requests are welcome! Please follow the contribution guidelines.
 
 ## 📩 Contact
-For questions or support, reach out via [email@example.com](mailto:email@example.com) or open an issue.
+For questions or support, reach out via [rajkhatri398@gmail.com](mailto:rajkhatri398@gmail.com.com) or open an issue.
 
 ---
 🚀 Happy Scraping! 🚀

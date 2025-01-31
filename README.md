@@ -17,17 +17,6 @@ An AI-powered web scraper leveraging **Ollama, Bright Data, Selenium**, and othe
 - **Pandas & NumPy** – Data processing and analysis
   
 
-## 🔧 Usage
-
-1. Configure the scraping parameters in `config.py`.
-2. Run the scraper:
-
-```sh
-python scraper.py
-```
-
-3. The scraped data will be stored in the `output/` directory.
-
 ## 🛠 Configuration
 Modify the `config.py` file to set:
 - **Target URLs**
